@@ -42,6 +42,11 @@ public class Main {
                             System.out.println("You have been healed at the cost of 100 gold");
                             System.out.println("Your Health is " + Config.playerHealth + " and your gold is " + Config.playerGold);
                         }
+                        else{
+                            Config.playerGold -= 100;
+                            System.out.println("You have been healed at the cost of 100 gold");
+                            System.out.println("Your Health is " + Config.playerHealth + " and your gold is " + Config.playerGold);
+                        }
 
                     }
                     else {
