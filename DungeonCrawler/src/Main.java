@@ -42,8 +42,4 @@ public class Main {
         System.out.println("Your attack was: " + Config.playerAttack);
         System.exit(0);
     }
-
-
-
-
-    }
+}

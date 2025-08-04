@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class GameLogic {
 
     public static Scanner scanner = new Scanner(System.in);

@@ -7,5 +7,6 @@ public class Config {
     public static short maxPlayerHealth = 100;
     public static String playerName;
     public static String releaseVersion = "0.2.0";
+
 }
 

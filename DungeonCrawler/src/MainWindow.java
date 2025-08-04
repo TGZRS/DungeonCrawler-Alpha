@@ -4,6 +4,7 @@ import java.awt.event.*;
 import java.util.HashSet;
 import java.util.Set;
 
+
 public class MainWindow {
     public static Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
     public static byte movementPerTick = 10;
