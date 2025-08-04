@@ -1,6 +1,6 @@
 Alpha Release 0.2.0
 
-*Changes 0.2.0*
+*Update 0.2.0*
 - Shop Encounter
 - Boss Encounter
 - Game Rebalancing
@@ -13,10 +13,10 @@ Alpha Release 0.2.0
 
 ↓OLD CHANGE LOGS↓
 
-*Changes 0.1.1*
+*Update 0.1.1*
 - Healing Bug Fix
 
-*Changes 0.1.0*
+*Update 0.1.0*
 - New Chest Rewards
 - Improved Code Structure
 - Optimized Code
